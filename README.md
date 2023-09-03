@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently working on **Full Stack Application**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently solving **different DS Algo problems**
 
 - 📫 How to reach me **debangshudas200@gmail.com**
 
