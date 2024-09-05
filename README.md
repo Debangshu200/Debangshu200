@@ -51,14 +51,14 @@
 </p>
 
 <h3 align="left">My GitHub Contributions:</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debangshu200&show_icons=true&locale=en" alt="debangshu200" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debangshu200&" alt="debangshu200" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=debangshu200&theme=react-dark" alt="Contribution Graph" />
-</p>
+</p> -->
